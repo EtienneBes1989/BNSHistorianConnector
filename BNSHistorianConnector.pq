@@ -106,7 +106,7 @@ BNSHistorianConnector.Publish = [
     Beta = true,
     Category = "Other",
     ButtonText = { Extension.LoadString("ButtonTitle"), Extension.LoadString("ButtonHelp") },
-    LearnMoreUrl = "https://powerbi.microsoft.com/",
+    LearnMoreUrl = "https://www.bluenickel.co.za/",
     SourceImage = BNSHistorianConnector.Icons,
     SourceTypeImage = BNSHistorianConnector.Icons
 ];
